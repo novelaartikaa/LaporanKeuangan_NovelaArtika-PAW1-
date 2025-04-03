@@ -11,7 +11,8 @@ Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran harian.
 1. Masukkan tanggal, keterangan, jenis transaksi, dan jumlah uang  
 2. Klik "Tambah Transaksi" untuk menyimpan data  
 3. Lihat rekap transaksi dalam tabel  
-4. Gunakan tombol "Cetak PDF" untuk menyimpan laporan  
+4. Gunakan tombol "Cetak PDF" untuk menyimpan laporan
+![Tampilan Form Input](images/Screenshot (155).png)
 
 ## Teknologi yang Digunakan  
 - HTML  
