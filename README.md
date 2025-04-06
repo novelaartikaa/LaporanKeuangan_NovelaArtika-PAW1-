@@ -19,3 +19,6 @@ Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran harian.
 - CSS (Bootstrap)  
 - JavaScript  
 - jsPDF  
+
+## Kontak  
+email: **novelaartikasaridevi@gmail.com**  
